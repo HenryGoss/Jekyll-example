@@ -1,4 +1,4 @@
-title : My First Jekyll Site
+title : Come Visit Lowville New York!
 author: 
   name : Henry Goss
   email : hbgoss25@stlawu.edu
@@ -8,7 +8,7 @@ url: "https://henrygoss.github.io" # the base hostname & protocol for your site
 baseurl: "/Jekyll-example" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
-minimal_mistakes_skin: plum
+minimal_mistakes_skin: air 
 
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
