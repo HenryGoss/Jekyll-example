@@ -1,3 +1,7 @@
 main: 
   -title: "About"
   url: /About
+  -title: "Dining"
+  url: /Dining
+  -title: "Lodging"
+  url: /Lodging
