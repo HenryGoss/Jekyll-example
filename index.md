@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Welcome Home!
+title: All About Lowville!
 excerpt: This is a test excerpt
 header: 
-    overlay_image: /assets/images/trees.jpg
+    overlay_image: /assets/images/Fall.jpg
     actions: 
         - label: "Learn More"
           url: /about
