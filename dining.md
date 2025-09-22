@@ -8,13 +8,13 @@ layout: single
 
 - A popular diner serving American classics with generous portions and a welcoming vibe.
 
-![Restaurant](Jebs.png)
+![Restaurant](jebs.png)
 
 ### **Lloyd's of Lowville:**
 
 - A nostalgic diner known for its hearty breakfasts and comfort food.
 
-![Diner](Lloyd's.png)
+![Diner](lloyd's.png)
 
 ### **Tony Harper's Pizza and Clam Shack:**
 
