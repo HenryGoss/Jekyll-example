@@ -1,8 +1,6 @@
 ---
 title: History
 layout: single
-title: All About Lowville!
-excerpt: This is a test excerpt
 header: 
     overlay_image: /assets/images/Historical2.jpg/
     overlay_filter: .5
